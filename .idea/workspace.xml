@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03d50e17-3908-4f7d-b473-f2d9906a4554" name="Changes" comment="" />
+    <list default="true" id="03d50e17-3908-4f7d-b473-f2d9906a4554" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fracciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/fracciones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_fracciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_fracciones.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +37,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests for tests.test_fracciones.test_descomponer_en_factores_primos.executor": "Run",
+    "Python tests.Python tests for tests.test_fracciones.test_mcm.executor": "Run",
     "Python tests.Python tests in test_fracciones.py.executor": "Run",
     "Python.fracciones.executor": "Debug",
     "Python.test_fracciones.executor": "Debug",
@@ -39,12 +45,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/riset/Documents/Personal/Proyectos/MatesBatxi1",
     "settings.editor.selected.configurable": "debugger.dataViews"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.test_fracciones">
+  <component name="RunManager" selected="Python tests.Python tests for tests.test_fracciones.test_mcm">
     <configuration name="test_fracciones" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="MatesBatxi1" />
       <option name="ENV_FILES" value="" />
@@ -83,12 +89,29 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for tests.test_fracciones.test_mcm" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="MatesBatxi1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_fracciones.test_mcm&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.test_fracciones" />
+      <item itemvalue="Python tests.Python tests for tests.test_fracciones.test_mcm" />
       <item itemvalue="Python tests.Python tests for tests.test_fracciones.test_descomponer_en_factores_primos" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for tests.test_fracciones.test_mcm" />
         <item itemvalue="Python tests.Python tests for tests.test_fracciones.test_descomponer_en_factores_primos" />
       </list>
     </recent_temporary>
@@ -133,15 +156,9 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/fracciones.py</url>
-          <line>70</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se ha modificado y normalizado la estructura dentro de la funcion descomponer_en_factores primos&#10;&#10;Se ha creado clase Fraccion con sus metodos y atributos" />
+    <MESSAGE value="Se ha modificado y normalizado la estructura dentro de la funcion descomponer_en_factores primos&#10;&#10;Se ha creado clase Fraccion con sus metodos y atributos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se ha modificado y normalizado la estructura dentro de la funcion descomponer_en_factores primos&#10;&#10;Se ha creado clase Fraccion con sus metodos y atributos" />
   </component>
 </project>
