@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03d50e17-3908-4f7d-b473-f2d9906a4554" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MatesBatxi1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fracciones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_fracciones.py" afterDir="false" />
-    </list>
+    <list default="true" id="03d50e17-3908-4f7d-b473-f2d9906a4554" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,12 +34,13 @@
     "Python tests.Python tests for tests.test_fracciones.test_descomponer_en_factores_primos.executor": "Run",
     "Python tests.Python tests in test_fracciones.py.executor": "Run",
     "Python.fracciones.executor": "Debug",
-    "Python.test_fracciones.executor": "Run",
+    "Python.test_fracciones.executor": "Debug",
     "Python.threading.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/riset/Documents/Personal/Proyectos/MatesBatxi1",
     "settings.editor.selected.configurable": "debugger.dataViews"
   }
 }]]></component>
@@ -124,7 +115,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -135,8 +138,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/fracciones.py</url>
-          <line>42</line>
-          <option name="timeStamp" value="11" />
+          <line>70</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
